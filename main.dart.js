@@ -64330,7 +64330,7 @@ A.tK(q)
 return A.ba(r,new A.hW(A.ba(r,p.a,r,new A.aq(0,a.H(t.w).f.a.a*0.8,0,1/0),r,r,r,r,r,1/0),m,n,r),r,new A.aq(0,1/0,q,1/0),r,r,r,r,r,r)},
 $S:408}
 A.afB.prototype={
-$0(){A.dC("www.google.com")},
+$0(){A.dC("https://id.linkedin.com/in/mrpuryansyah")},
 $S:0}
 A.afC.prototype={
 $1(a){var s=null,r=a.c
@@ -64659,7 +64659,7 @@ A.SG.prototype={
 $0(){A.dC("mailto:mrpuryansyah@gmail.com")},
 $S:0}
 A.SH.prototype={
-$0(){A.dC("www.google.com")},
+$0(){A.dC("https://id.linkedin.com/in/mrpuryansyah")},
 $S:0}
 A.SI.prototype={
 $0(){A.dC("https://www.instagram.com/_agnel.selvan_/")},
